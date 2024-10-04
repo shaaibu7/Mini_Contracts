@@ -1,5 +1,3 @@
 {
-  "EscrowModule#Escrow": "0xaa070c4DdF63A2e9231a58370c1270B7D6D42727",
-  "StackClubModule#StackClub": "0xa7B6Bfea9AA15BAAb528DbD755Cc904807aF79d6",
-  "VotingContractModule#VotingContract": "0x22763C8dCA8A5cc00Ebd07C54C4a3509AA625DC0"
+  "VotingProposalModule#VotingProposal": "0x46c4ba41F9eEB94e9fc5a779824056f144143e3e"
 }
