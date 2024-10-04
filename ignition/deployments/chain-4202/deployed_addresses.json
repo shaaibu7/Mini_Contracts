@@ -1,3 +1,5 @@
 {
-  "VotingProposalModule#VotingProposal": "0x46c4ba41F9eEB94e9fc5a779824056f144143e3e"
+  "VotingProposalModule#VotingProposal": "0x46c4ba41F9eEB94e9fc5a779824056f144143e3e",
+  "crowdFundingModule#crowdFunding": "0x6524cd3C11CC053f0fd7503388050B0940aDAFe3",
+  "FundMeModule#FundMe": "0x85e749ff42571CDD79095702A01BEF9854F01A81"
 }
